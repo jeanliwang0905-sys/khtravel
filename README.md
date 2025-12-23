@@ -1,5 +1,4 @@
 # khtravel
-<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
